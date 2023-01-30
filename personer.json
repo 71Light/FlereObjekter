@@ -1,5 +1,4 @@
     [
-        {"tittel": "Personer"},
         {"navn": "Jan", "alder": 29},
         {"navn": "Marie", "alder": 36},
         {"navn": "Ali", "alder": 12},
